@@ -1,0 +1,4 @@
+target,best_overall_model_by_rmse,worst_overall_model_by_rmse,average_error_correlation,best_h1_directional_model,best_h1_directional_accuracy
+unemployment,VAR,BiLSTM_Attention,0.5397151912194347,BiLSTM_Attention,0.5833333333333334
+vacancies,VAR,TBATS_PROPHET,0.327034877645794,TBATS_PROPHET,0.6666666666666666
+theta,VAR,TBATS_PROPHET,0.39257504125040116,TBATS_PROPHET,0.7083333333333334

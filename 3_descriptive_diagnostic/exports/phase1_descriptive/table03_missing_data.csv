@@ -1,0 +1,10 @@
+variable,missing_count,missing_months
+employment,0,
+unemployment,0,
+labour_force,0,
+population,0,
+vacancies,6,"2020-04, 2020-05, 2020-06, 2020-07, 2020-08, 2020-09"
+theta,6,"2020-04, 2020-05, 2020-06, 2020-07, 2020-08, 2020-09"
+ur,0,
+lfpr,0,
+epop,0,

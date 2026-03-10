@@ -1,0 +1,9 @@
+series,break_index,break_date
+theta,130,1990-11-01
+theta,210,1997-07-01
+theta,435,2016-04-01
+unemployment,130,1990-11-01
+unemployment,215,1997-12-01
+unemployment,345,2008-10-01
+unemployment,450,2017-07-01
+vacancies,425,2015-06-01
